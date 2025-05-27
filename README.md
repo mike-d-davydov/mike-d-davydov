@@ -1,19 +1,19 @@
 # Hi there, I'm Mike Davydov 👋
 
-<img src="https://avatars.githubusercontent.com/u/41307834?s=400&u=28689c4619f2f7ff5b4024bb041b136499e603a9&v=4" width="150" height="150" alt="Mike Davydov" style="border-radius:50%; float: left; margin-right: 20px;"/>
-
 I'm a **Tech Lead, Test Automation Specialist, and Test Platform Architect** with over 20 years of experience dedicated to driving quality engineering and delivering high-impact solutions for leading organizations.
 
-I specialize in architecting robust test automation frameworks, leading high-performing QA teams, and tackling complex engineering challenges to ensure efficient and effective testing.
+I specialize in architecting robust test automation frameworks, building test infrastructure, leading high-performing QA teams, and tackling complex engineering challenges to ensure efficient and effective testing.
 
 ---
 
 ## 🚀 About Me
 
-With a background as **Vice President, QA Engineering at Goldman Sachs**, I have extensive experience leading the development and maintenance of large-scale Quality Assurance platforms, such as the Marquee Quality Assurance Engineering Platform. 
+With a background as **Vice President, QA Engineering at Goldman Sachs**, I have extensive experience leading the development and maintenance of large-scale Quality Engineering platforms, such as the Marquee Quality Assurance Engineering Platform. 
 My focus has always been on contributing to core architectural design and empowering teams to excel. Earlier in my career, I held key roles at companies like **InRhythm** and **EPAM Systems**, leading test automation initiatives and managing SDET practices.
 
-I'm passionate about building scalable test solutions and fostering a culture of quality. I am currently seeking a challenging **Principal SDET / Test Architect** opportunity where I can leverage my expertise to contribute to world-class software quality.
+I'm passionate about building scalable test solutions and fostering a culture of quality. 
+
+I am currently seeking a challenging **Principal SDET / Test Architect** opportunity where I can leverage my expertise to contribute to world-class software quality.
 
 ---
 
@@ -30,14 +30,15 @@ Here's a snapshot of what I bring to the table:
     * Client and stakeholder management.
 * **Test Automation Expertise:**
     * End-to-end test automation: UI, API, Performance, Data Validation.
-    * Proficient with tools & languages such as: **Java, Python, Selenium, Playwright, REST Assured, JMeter** * Behavior-Driven Development (BDD) & Test-Driven Development (TDD) practices.
+    * Proficient with tools & languages such as: **Java, Python, Selenium, Playwright, REST Assured, JMeter** 
+    * Behavior-Driven Development (BDD) & Test-Driven Development (TDD) practices.
 * **CI/CD & DevOps:**
     * Integrating automated testing seamlessly into CI/CD pipelines (e.g., GitLab CI, Jenkins, BuildKite).
     * Promoting "Shift Left" testing principles and enabling faster feedback loops.
 * **Platforms & Technologies:**
     * Experience with Cloud Platforms (e.g., AWS, Azure, GCP). 
     * Microservices architecture testing.
-    * Containerization (Docker, Kubernetes). * 
+    * Containerization (Docker, Kubernetes). 
 * **Methodologies:**
     * Agile (Scrum, Kanban) and SAFe environments.
 
