@@ -45,7 +45,7 @@ Here's a snapshot of what I bring to the table:
 
 ## 💡 Highlighted Projects & Contributions
 
-* **[jpwise](https://github.com/mike-d-davydov/jpwise)**: Simple combinatorial testing library in Java that can be used to generate test data for your tests using pairwise testing approach.
+* **[jpwise](https://github.com/mike-d-davydov/jpwise)**: Java test data generator for pairwise/combinatorial strategies, featuring dynamic value selection from user-defined equivalence partitions and an advanced rules engine for complex constraints.
 * **[stryker-demo](https://github.com/mike-d-davydov/stryker-demo)**: Demo project for [InRhythm's Lightning Talk on 30 Sep 2021: Intro into Test Design and Test Coverage](https://www.youtube.com/watch?v=Mu4bEs9KvZo&list=PLr7BUdyeim8Nb3snSzRswjJ0mIrGIkJwg&index=1)
 * **[My InRhythm's Lightning Talks](https://www.youtube.com/playlist?list=PLr7BUdyeim8Nb3snSzRswjJ0mIrGIkJwg)**: Playlist of my 3 talks on advanced QA topics
 * **Contributor to [WebdriverIO](https://github.com/webdriverio/webdriverio)**
